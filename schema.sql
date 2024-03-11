@@ -1,3 +1,5 @@
+Answer:-
+
 -- Create the database
 CREATE DATABASE FullStack;
 
